@@ -1,0 +1,65 @@
+Company,Sub_segment,HQ_Region,CDP Score,CDP_Score_Numeric,SBTi_Near_Term_Status,SBTi_Near_Term_Numeric,SBTi_Net_Zero_Status,Has_Net_Zero_Target,SBTi_Net_Zero_Year,Remake_2021_Score_out_of_150,Overall_Disclosure_Score_pct,Carbon_Emissions_Score_pct,Energy_Renewables_Score_pct,Supply_Chain_Score_pct,Social_Workers_Score_pct,Governance_Strategy_Score_pct,Materials_Products_Score_pct
+Puma,Sports/Active,Europe,A,7.0,Targets set,3,None,0,,,67.9,63.6,78.3,73.0,66.7,33.3,50
+H&M,Fast Fashion,Europe,A,7.0,Not Found,0,None,0,,39.0,66.7,63.6,47.8,67.6,60.0,83.3,75
+Hanesbrands,Sports/Active,North America,A,7.0,Targets set,3,None,0,,,51.3,45.5,60.9,56.8,40.0,50.0,50
+lululemon athletica,Sports/Active,North America,B,5.0,Targets set,3,Targets set,1,2050,-3.0,51.3,63.6,34.8,48.6,33.3,33.3,100
+Adidas AG,Sports/Active,Europe,A,7.0,Targets set,3,Targets set,1,2050,25.0,50.0,54.5,30.4,48.6,40.0,33.3,100
+Asics Corporation,Sports/Active,Asia,A,7.0,Targets set,3,Commitment removed,0,,,46.2,54.5,47.8,51.4,13.3,50.0,75
+Ralph Lauren Corporation,Luxury,North America,C,3.0,Targets set,3,Commitment removed,0,,,46.2,63.6,26.1,43.2,26.7,83.3,75
+Gildan Activewear Inc.,Sports/Active,North America,A-,6.0,Targets set,3,None,0,,,44.9,45.5,39.1,51.4,33.3,66.7,50
+Superdry plc,Fast Fashion,Europe,B,5.0,Targets set,3,Targets set,1,FY2040,,44.9,63.6,26.1,29.7,53.3,50.0,100
+Levi Strauss & Co.,Mid-Market,North America,C,3.0,Targets set,3,Targets set,1,FY2050,20.0,39.7,54.5,21.7,40.5,13.3,50.0,75
+Nike Inc.,Sports/Active,North America,Not Disclosed,,Targets set,3,None,0,,25.0,39.7,45.5,34.8,40.5,20.0,33.3,75
+JD Sports Fashion plc,Sports/Active,Europe,A,7.0,Targets set,3,None,0,,,37.2,72.7,17.4,27.0,33.3,66.7,50
+Gap inc.,Mid-Market,North America,Not Disclosed,,Targets set,3,Targets set,1,FY2050,6.0,35.9,27.3,26.1,45.9,13.3,33.3,50
+Hermes International,Luxury,Europe,A,7.0,Not Found,0,None,0,,,35.9,72.7,52.2,35.1,13.3,66.7,0
+Hugo Boss AG,Luxury,Europe,C,3.0,Targets set,3,None,0,,,35.9,36.4,17.4,35.1,20.0,33.3,75
+Esprit Holdings Limited,Fast Fashion,Asia,Not Disclosed,,Not Found,0,None,0,,,35.9,9.1,8.7,45.9,26.7,33.3,75
+Prada,Luxury,Europe,A-,6.0,Targets set,3,Commitment removed,0,,,34.6,36.4,30.4,40.5,6.7,50.0,75
+Guess? Inc,Mid-Market,North America,B,5.0,Targets set,3,None,0,,,33.3,36.4,13.0,35.1,6.7,50.0,100
+Next PLC,Mid-Market,Europe,B,5.0,Targets set,3,Targets set,1,2050,13.0,32.1,36.4,13.0,32.4,13.3,33.3,75
+Zalando SE,Mid-Market,Europe,B,5.0,Targets set,3,Targets set,1,2050,18.0,32.1,45.5,17.4,29.7,13.3,66.7,75
+Asos,Fast Fashion,Europe,D,1.0,Targets set,3,Targets set,1,FY2050,16.0,28.2,27.3,4.3,35.1,20.0,33.3,25
+American Eagle Outfitters,Mid-Market,North America,B,5.0,Targets set,3,Commitment removed,0,,-4.0,26.9,63.6,30.4,13.5,6.7,33.3,75
+Moncler,Luxury,Europe,A,7.0,Targets set,3,Targets set,1,2050,,24.4,63.6,13.0,5.4,26.7,66.7,75
+Target,Value/Dept,North America,B,5.0,Targets set,3,Committed,0,,1.0,23.1,27.3,21.7,24.3,6.7,33.3,0
+Marks and Spencer Group plc,Mid-Market,Europe,B,5.0,Not Found,0,None,0,,31.0,21.8,36.4,13.0,16.2,13.3,33.3,50
+Abercrombie & Fitch,Mid-Market,North America,B,5.0,Targets set,3,None,0,,-2.0,21.8,9.1,4.3,29.7,6.7,33.3,50
+Capri Holdings Ltd (formerly Michael Kors),Other Retail,North America,B,5.0,Targets set,3,Commitment removed,0,,,20.5,45.5,17.4,8.1,6.7,83.3,25
+"Amazon.com, Inc.",Other Retail,North America,Not Disclosed,,Commitment removed,1,None,0,,2.0,20.5,9.1,21.7,18.9,6.7,33.3,50
+Salvatore Ferragamo SpA,Luxury,Europe,A,7.0,Targets set,3,Targets set,1,2050,,20.5,54.5,13.0,8.1,6.7,66.7,75
+Nordstrom,Value/Dept,North America,Not Disclosed,,Targets set,3,None,0,,,19.2,27.3,4.3,18.9,6.7,33.3,50
+Columbia Sportswear,Sports/Active,North America,Not Disclosed,,Not Found,0,None,0,,,19.2,9.1,4.3,37.8,6.7,0.0,0
+Burberry Group plc,Luxury,Europe,A,7.0,Targets set,3,Targets set,1,FY2040,38.0,19.2,54.5,13.0,5.4,13.3,50.0,50
+Macy's,Value/Dept,North America,B-,4.0,Targets set,3,Commitment removed,0,,,17.9,9.1,8.7,18.9,6.7,33.3,50
+Ted Baker,Mid-Market,Europe,Not Disclosed,,Targets set,3,None,0,,,17.9,27.3,0.0,18.9,6.7,50.0,50
+Dick's Sporting Goods,Sports/Active,North America,Not Disclosed,,Not Found,0,None,0,,,17.9,9.1,0.0,29.7,6.7,33.3,0
+Boohoo.com,Fast Fashion,Europe,Not Disclosed,,Not Found,0,None,0,,13.0,17.9,27.3,0.0,16.2,13.3,33.3,50
+Otto Group,Other Retail,Europe,Not Disclosed,,Targets set,3,None,0,,,16.7,18.2,4.3,13.5,13.3,33.3,50
+Louis Vuitton Malletier SA (LVMH),Luxury,Europe,Not Disclosed,,Targets set,3,Targets set,1,2050,,16.7,27.3,21.7,10.8,6.7,33.3,50
+Aldi Nord,Other Retail,Europe,Not Disclosed,,Targets set,3,None,0,,,15.4,9.1,4.3,18.9,20.0,0.0,25
+Walmart,Value/Dept,North America,Not Disclosed,,Targets set,3,Commitment removed,0,,-1.0,14.1,27.3,13.0,2.7,6.7,33.3,50
+"Fossil Group, Inc.",Other Retail,North America,C,3.0,Targets set,3,Targets set,1,2040,,12.8,9.1,17.4,13.5,6.7,33.3,0
+Under Armour,Sports/Active,North America,Not Disclosed,,Targets set,3,Commitment removed,0,,0.0,12.8,9.1,13.0,13.5,6.7,0.0,25
+Carter's Inc,Mid-Market,North America,B,5.0,Targets set,3,None,0,,,12.8,9.1,4.3,10.8,6.7,33.3,50
+Children's Place Inc,Other,North America,C,3.0,Targets set,3,None,0,,-10.0,12.8,27.3,0.0,2.7,13.3,33.3,75
+Carrefour S.A.,Other Retail,Europe,A,7.0,Targets set,3,Commitment removed,0,,,11.5,36.4,0.0,2.7,6.7,66.7,50
+Canada Goose,Other Retail,North America,A-,6.0,Targets set,3,Targets set,1,FY2050,,10.3,9.1,17.4,5.4,6.7,0.0,50
+Anta Sports Products,Other Retail,Asia,A,7.0,Targets set,3,None,0,,,9.0,9.1,8.7,5.4,6.7,33.3,25
+Costco Wholesale,Value/Dept,North America,C,3.0,Not Found,0,None,0,,,9.0,18.2,8.7,2.7,6.7,50.0,0
+Foot Locker Inc.,Sports/Active,North America,Not Disclosed,,Commitment removed,1,Commitment removed,0,,,7.7,18.2,8.7,2.7,6.7,33.3,0
+Burlington Stores Inc,Value/Dept,North America,B,5.0,Not Found,0,None,0,,,7.7,9.1,8.7,2.7,6.7,33.3,0
+Gerry Weber,Mid-Market,Europe,Not Disclosed,,Not Found,0,None,0,,,7.7,9.1,0.0,2.7,20.0,0.0,50
+Sports Direct,Other Retail,Europe,Not Disclosed,,Not Found,0,None,0,,,5.1,9.1,0.0,2.7,0.0,33.3,0
+Urban Outfitters,Fast Fashion,North America,Not Disclosed,,Not Found,0,None,0,,3.0,5.1,9.1,0.0,2.7,6.7,0.0,50
+Ross Stores,Value/Dept,North America,B,5.0,Not Found,0,None,0,,-13.0,5.1,9.1,4.3,0.0,0.0,33.3,0
+El Corte Ingles S.A.,Value/Dept,Europe,B,5.0,Not Found,0,None,0,,,5.1,9.1,4.3,2.7,6.7,16.7,0
+Chico's FAS Inc,Mid-Market,North America,Not Disclosed,,Targets set,3,None,0,,,3.8,0.0,4.3,5.4,6.7,16.7,0
+TOD'S,Luxury,Europe,Not Disclosed,,Targets set,3,None,0,,,3.8,9.1,4.3,2.7,6.7,0.0,0
+Brunello Cucinelli,Luxury,Europe,B,5.0,Targets set,3,Targets set,1,2050,,2.6,18.2,0.0,0.0,0.0,33.3,0
+Express Inc,Mid-Market,North America,Not Disclosed,,Targets set,3,Targets set,1,2050,,2.6,0.0,0.0,5.4,6.7,0.0,0
+Buckle Inc,Other Retail,North America,Not Disclosed,,Targets set,3,None,0,,,1.3,0.0,0.0,2.7,6.7,0.0,0
+DSW Inc.,Other Retail,North America,Not Disclosed,,Not Found,0,None,0,,,1.3,0.0,0.0,2.7,6.7,0.0,0
+"Dillard's, Inc.",Value/Dept,North America,Not Disclosed,,Not Found,0,None,0,,,1.3,0.0,0.0,2.7,6.7,0.0,0
+Skechers USA Inc,Sports/Active,North America,D,1.0,Not Found,0,None,0,,,1.3,0.0,0.0,2.7,6.7,0.0,0
+Semir,Other Retail,Asia,Not Disclosed,,Not Found,0,None,0,,,0.0,0.0,0.0,0.0,0.0,0.0,0
