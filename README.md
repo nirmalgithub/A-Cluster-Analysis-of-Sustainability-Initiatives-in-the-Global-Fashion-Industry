@@ -154,4 +154,4 @@ All code in this repository is original work produced for a Business Analytics d
 
 ## Author
 
-[Your Name] — Business Analytics dissertation, [University Name], 2026.
+Nirmal Kumar Kannan — MSc Business Analytics Sept 2025,  Dissertation, University of Greenwich, August 2026.
