@@ -18,33 +18,33 @@ scripted is part of the transparency this repository is meant to provide.
 | Stage | What Happened | How |
 |-------|----------------|-----|
 | 1 | Downloaded the raw Fashion Transparency Index 2024 export from WikiRate (wikirate.org); the 79 binary Yes/No metrics were manually encoded (Yes=1, No=0), grouped into 6 sustainability themes, and converted into theme score percentages, then combined with CDP Climate Change Scores (looked up individually per company at cdp.net) into `Fashion_Dataset.csv` | Manual |
-| 2 | Merged `Fashion_Dataset.csv` with the SBTi registry (`SBTI_Data.xlsx`), Remake 2021 scores, and HQ Region/Sub-segment tags into the master dataset | **`script_02_merge_sources.py`** |
-| 3 | Added individual company performance data (Scope 1+2/3 emissions, renewable energy %, etc.) for 8 companies with available sustainability reports | **`script_03_add_performance_data.py`** |
-| 4 | Ran K-means and hierarchical clustering, generated all 10 dissertation figures | **`script_04_full_clustering_analysis.py`** |
+| 2 | Merged `Fashion_Dataset.csv` with the SBTi registry (`SBTI_Data.xlsx`), Remake 2021 scores, and HQ Region/Sub-segment tags into the master dataset | **`script_01_merge_sources.py`** |
+| 3 | Added individual company performance data (Scope 1+2/3 emissions, renewable energy %, etc.) for 8 companies with available sustainability reports | **`script_02_add_performance_data.py`** |
+| 4 | Ran K-means and hierarchical clustering, generated all 10 dissertation figures | **`script_03_full_clustering_analysis.py`** |
 
 **If you only want to regenerate the dissertation figures**, you can skip
 straight to Stage 4 — `Fashion_Sustainability_Final_Dataset.csv` is already
 included in this package, fully merged through Stage 3, and ready to use
-directly with `script_04_full_clustering_analysis.py`.
+directly with `script_03_full_clustering_analysis.py`.
 
 ---
 
 ## Raw Input Files — Included
 
 Unlike many reproducibility packages, the raw third-party inputs to
-`script_02` are **included directly in this repository**, not just
+`script_01` are **included directly in this repository**, not just
 referenced:
 
 - **`Fashion_Dataset.csv`** — the manually prepared WikiRate+CDP starting
   file (64 companies), produced by Stage 1 above. This is the direct
-  input to `script_02`.
+  input to `script_01`.
 - **`SBTI_Data.xlsx`** — the full SBTi registry bulk download (14,531
-  companies) from sciencebasedtargets.org, used by `script_02` for
+  companies) from sciencebasedtargets.org, used by `script_01` for
   name-matching against the 64-company sample. Of the 64 companies, 46
   were successfully matched in the registry; the remaining 18 are
   documented as a limitation in the dissertation (Chapter 3, Section 3.5).
 
-This means `script_02` can be run exactly as provided, with no missing
+This means `script_01` can be run exactly as provided, with no missing
 files, to reproduce `Fashion_Sustainability_Final_Dataset.csv` from
 scratch.
 
@@ -59,7 +59,7 @@ pip install pandas scikit-learn scipy matplotlib seaborn numpy openpyxl
 
 ### Run
 ```bash
-python script_04_full_clustering_analysis.py
+python script_03_full_clustering_analysis.py
 ```
 
 ### What it produces
@@ -126,16 +126,12 @@ number reported in Chapter 4 of the dissertation:
 ```
 final_package/
 ├── README.md                                  (this file)
-├── requirements.txt                           (Python package dependencies)
-├── script_02_merge_sources.py / .ipynb         (pipeline stage 2)
-├── script_03_add_performance_data.py / .ipynb  (pipeline stage 3)
-├── script_04_full_clustering_analysis.py / .ipynb  (★ pipeline stage 4 — main analysis)
+├── script_01_merge_sources.py / .ipynb         (pipeline stage 2)
+├── script_02_add_performance_data.py / .ipynb  (pipeline stage 3)
+├── script_03_full_clustering_analysis.py / .ipynb  (★ pipeline stage 4 — main analysis)
 ├── Fashion_Dataset.csv                         (raw input — WikiRate+CDP, manually prepared)
 ├── SBTI_Data.xlsx                              (raw input — SBTi registry bulk download)
 ├── Fashion_Sustainability_Final_Dataset.csv    (merged master dataset, 64 companies)
-├── Fashion_Clustered_Dataset.csv               (dataset + cluster assignments)
-├── Fashion_Cluster_Input_Final.csv             (compact clustering-ready summary)
-├── Performance_Data_Collection_Template.xlsx   (company report collection template)
 └── figures/                                    (all 10 dissertation figures, PNG)
 ```
 
