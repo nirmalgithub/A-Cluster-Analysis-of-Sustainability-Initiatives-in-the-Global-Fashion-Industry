@@ -77,7 +77,6 @@ All outputs are saved to an `outputs/` folder created automatically:
 | `fig8_k3_k4_pca.png` | Supplementary K=3 and K=4 PCA scatter plots |
 | `fig9_cluster_comparison_table.png` | K=2/3/4 comparison table |
 | `fig10_k3_k4_radars.png` | Supplementary K=3/K=4 radar charts |
-| `Fashion_Clustered_Dataset.csv` | Final dataset with all cluster labels (K2/K3/K4) and greenwashing category |
 
 The script also prints a full console log of every statistic reported in
 the dissertation (silhouette scores, cluster sizes, cluster means, ARI,
